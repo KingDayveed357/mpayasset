@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /
+
+User-agent: DuckDuckGo Bot
+Disallow: /
+
+User-agent: Firefox Bot
+Disallow: /
+
+User-agent: *
+Disallow: /

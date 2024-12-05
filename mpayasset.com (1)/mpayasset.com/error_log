@@ -1,0 +1,210 @@
+[12-Nov-2024 17:06:11 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:12 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:13 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:16 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:16 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:17 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:17 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:20 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:30 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:32 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:35 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 17:06:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/public/./vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/public/index.php on line 13
+[12-Nov-2024 18:07:13 UTC] PHP Warning:  require_once(/home/zmuzqzlb/mpayasset.com/vendor../composer/autoload_real.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/vendor../composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php:23
+Stack trace:
+#0 /home/zmuzqzlb/mpayasset.com/public/index.php(13): require()
+#1 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:17 UTC] PHP Warning:  require_once(/home/zmuzqzlb/mpayasset.com/vendor../composer/autoload_real.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/vendor../composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php:23
+Stack trace:
+#0 /home/zmuzqzlb/mpayasset.com/public/index.php(13): require()
+#1 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:20 UTC] PHP Warning:  require_once(/home/zmuzqzlb/mpayasset.com/vendor../composer/autoload_real.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/vendor../composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php:23
+Stack trace:
+#0 /home/zmuzqzlb/mpayasset.com/public/index.php(13): require()
+#1 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:37 UTC] PHP Warning:  require_once(/home/zmuzqzlb/mpayasset.com/vendor./composer/autoload_real.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/vendor./composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php:23
+Stack trace:
+#0 /home/zmuzqzlb/mpayasset.com/public/index.php(13): require()
+#1 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:39 UTC] PHP Warning:  require_once(/home/zmuzqzlb/mpayasset.com/vendor./composer/autoload_real.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[12-Nov-2024 18:07:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/vendor./composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php:23
+Stack trace:
+#0 /home/zmuzqzlb/mpayasset.com/public/index.php(13): require()
+#1 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/vendor/autoload.php on line 23
+[17-Nov-2024 17:35:06 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:08 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:15 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:16 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:18 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:20 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:33 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:37 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 17:35:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:06:44 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:06:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:39 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:40 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:44 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:47 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:49 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:50 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:46:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:48:14 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:48:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:48:16 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 18:48:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 19:15:23 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[17-Nov-2024 19:15:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[20-Nov-2024 00:23:34 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[20-Nov-2024 00:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[20-Nov-2024 00:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/zmuzqzlb/mpayasset.com/clear_cache.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/clear_cache.php on line 4
+[20-Nov-2024 00:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/zmuzqzlb/mpayasset.com/clear_cache.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/clear_cache.php on line 4
+[20-Nov-2024 00:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/zmuzqzlb/mpayasset.com/clear_cache.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/clear_cache.php on line 4
+[20-Nov-2024 00:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/zmuzqzlb/mpayasset.com/clear_cache.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/clear_cache.php on line 4
+[20-Nov-2024 00:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/zmuzqzlb/mpayasset.com/clear_cache.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/clear_cache.php on line 4
+[20-Nov-2024 00:48:39 UTC] PHP Warning:  require_once(/home/zmuzqzlb/mpayasset.com/./laravel-server/bootstrap/app.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 16
+[20-Nov-2024 00:48:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/./laravel-server/bootstrap/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 16
+[30-Nov-2024 20:47:29 UTC] PHP Warning:  require(/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php): Failed to open stream: No such file or directory in /home/zmuzqzlb/mpayasset.com/index.php on line 13
+[30-Nov-2024 20:47:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/zmuzqzlb/mpayasset.com/../laravel-server/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zmuzqzlb/mpayasset.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zmuzqzlb/mpayasset.com/index.php on line 13

@@ -1,0 +1,42 @@
+# Options is required by Many HostSevice
+Options +MultiViews
+
+RewriteEngine on
+
+# For .php & .html URL's:
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+RewriteCond %{HTTP_HOST} mpayasset.com/public [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://mpayasset.com/public/$1 [R,L]
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 104.22.0.118
+deny from 13.107.213.70
+deny from 188.114.96.1
+deny from 216.58.209.206
+deny from 216.58.210.132
+
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Block Googlebot
+    RewriteCond %{HTTP_USER_AGENT} Googlebot [NC]
+    RewriteRule .* - [F,L]
+
+    # Block DuckDuckGo Bot
+    RewriteCond %{HTTP_USER_AGENT} DuckDuckGo [NC]
+    RewriteRule .* - [F,L]
+
+    # Block Firefox Bot
+    RewriteCond %{HTTP_USER_AGENT} Firefox [NC]
+    RewriteRule .* - [F,L]
+
+    # You can add more user agents here
+</IfModule>
